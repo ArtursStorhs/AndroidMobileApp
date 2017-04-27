@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="button_add">Add</string>
+    <string name="input_text">Input your text here</string>
+    <string name="input_description"><font size="18">Input your description here</font></string>
+    <string name="deleteButton">Delete</string>
+    <string name="closeButton">Close</string>
+    <string name="cameraButton">Camera</string>
+    <string name="shareButton">Share</string>
+    <string name="editButton">Edit</string>
+    <string name="cancelButton">Cancel</string>
+</resources>
